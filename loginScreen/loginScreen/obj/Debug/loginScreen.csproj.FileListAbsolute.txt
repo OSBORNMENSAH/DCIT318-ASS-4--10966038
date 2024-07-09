@@ -1,0 +1,10 @@
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.AssemblyReference.cache
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.Properties.Resources.resources
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.GenerateResource.cache
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\bin\Debug\loginScreen.exe.config
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\bin\Debug\loginScreen.exe
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\bin\Debug\loginScreen.pdb
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.exe
+C:\Users\Tokyo\source\repos\loginScreen\loginScreen\obj\Debug\loginScreen.pdb

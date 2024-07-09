@@ -1,0 +1,10 @@
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.csproj.AssemblyReference.cache
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.Properties.Resources.resources
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.csproj.GenerateResource.cache
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\bin\Debug\CanvasDrawingApp.exe.config
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\bin\Debug\CanvasDrawingApp.exe
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\bin\Debug\CanvasDrawingApp.pdb
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.Form1.resources
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.exe
+C:\Users\Tokyo\source\repos\CanvasDrawingApp\CanvasDrawingApp\obj\Debug\CanvasDrawingApp.pdb
